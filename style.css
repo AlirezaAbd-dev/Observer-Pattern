@@ -1,0 +1,33 @@
+html,
+body {
+  margin: 0;
+  background-color: #0b0b0e;
+  font-family: Inter;
+  color: #fff;
+}
+
+#app {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+  padding: 1em 2em;
+  font-size: 1em;
+  border-radius: 3px;
+  margin: 0 1em;
+  color: white;
+}
+
+#pink-btn {
+  background-color: #ff4378;
+}
+
+#blue-btn {
+  background-color: #56c1ff;
+}
